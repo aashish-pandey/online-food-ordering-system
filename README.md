@@ -57,7 +57,7 @@ The program allows:
 ```markdown
 ![Start Screen](screenshots/start.png)
 ![Registration](screenshots/newRegistration.png)
-![Menu](screenshots/menu.png)
+![Menu](/screenshots/menu.png)
 ![Ordering](screenshots/orderingScreen.png)
 ![Payment](screenshots/paymentMenu.png)
 ```
