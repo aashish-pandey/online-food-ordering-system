@@ -54,13 +54,12 @@ The program allows:
 ## 🖼️ Screenshots 
 
 
-```markdown
-![Start Screen](screenshots/start.png)
+![Start Screen](screenshots/startScreen.png)
 ![Registration](screenshots/newRegistration.png)
-![Menu](/screenshots/menu.png)
+![Menu](screenshots/menu.png)
 ![Ordering](screenshots/orderingScreen.png)
 ![Payment](screenshots/paymentMenu.png)
-```
+
 
 
 👨‍🎓 Author
