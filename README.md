@@ -53,11 +53,19 @@ The program allows:
 
 ## 🖼️ Screenshots 
 
-
+## Start 
 ![Start Screen](screenshots/startScreen.png)
+----
+## Registration
 ![Registration](screenshots/newRegistration.png)
+----
+## Menu
 ![Menu](screenshots/menu.png)
+----
+## Ordering
 ![Ordering](screenshots/orderingScreen.png)
+----
+## Payment
 ![Payment](screenshots/paymentMenu.png)
 
 
