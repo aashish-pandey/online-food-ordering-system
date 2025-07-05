@@ -35,6 +35,7 @@ public:
         q:
         string name, pass;
         fstream file;
+        int a, b;
         file.open(fname, ios::in);
         cout<<"\n\n\n\n";
         cout<<"\t\t\t\t\t\t\t";
